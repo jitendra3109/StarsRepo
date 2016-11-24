@@ -1,3 +1,9 @@
+# ☼  The 'Say Thanks' Project
+
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
+
 # StarsRepo
 ## Finding respective stars repo to contribute in your comfortable zone.<br>
    How to find 50 stars repo to contribute a favourote repo?<br>
