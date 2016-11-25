@@ -1,8 +1,7 @@
 # StarsRepo
 
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)  
-# ☼  The 'Say Thanks' Project
+
 
 ## Finding respective stars repo to contribute in your comfortable zone.<br>
    How to find 50 stars repo to contribute a favourote repo?<br>
@@ -11,6 +10,8 @@
    Please search on your Github home page instead of perticular repo  because it will search only on your perticular repo.
    
    Also Keep in mind,<br>
-   You can't use the following wildcard characters as part of your search query: . , : ; / \ ` ' " = * ! ? # $ & + ^ | ~ < > ( ) { } [ ]. The search will simply ignore these symbols.
+   You can't use the following wildcard characters as part of your search query: . , : ; / \ ` ' " = * ! ? # $ & + ^ | ~ < > ( ) { } [ ]. The search will simply ignore these symbols. 
 
-  [More details ](https://help.github.com/articles/searching-code/)
+  [More details ](https://help.github.com/articles/searching-code/)<br>
+  
+# ☼  The 'Say Thanks' this Project  click here!! [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)  
