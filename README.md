@@ -14,4 +14,4 @@
 
   [More details ](https://help.github.com/articles/searching-code/)<br>
   
-# ☼  The 'Say Thanks' this Project  click here!! [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)  
+# ☼  The 'Say Thanks' this Project  click here!!             [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)]                       (https://saythanks.io/to/jsroyal)  
