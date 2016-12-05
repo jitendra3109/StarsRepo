@@ -1,6 +1,6 @@
 # StarsRepo
 
-[star] (#|*-Unstar|3|)
+[star] (href="/jsroyal?tab=stars")
      
 
 ## Finding respective stars repo to contribute in your comfortable zone.<br>
