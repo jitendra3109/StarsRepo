@@ -1,7 +1,6 @@
 # StarsRepo
 
-[star] (href="/jsroyal?tab=stars")
-     
+Please first give a smile on clicking  * on my repo.
 
 ## Finding respective stars repo to contribute in your comfortable zone.<br>
    How to find 50 stars repo to contribute a favourote repo?<br>
