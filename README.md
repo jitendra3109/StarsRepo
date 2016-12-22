@@ -12,7 +12,21 @@ Please first give a smile on clicking  * on my repo.
    You can't use the following wildcard characters as part of your search query: . , : ; / \ ` ' " = * ! ? # $ & + ^ | ~ < > ( ) { } [ ]. The search will simply ignore these symbols. 
 
   [More details ](https://help.github.com/articles/searching-code/)<br>
+ 
+ 
+## Contributing
+
+Thanks so much for wanting to help! We really appreciate it.
+
+* Have an idea for a new feature?
+* Want to add a new built-in theme?
+
+Excellent! You've come to the right place.
+
+1. If you find a bug or wish to suggest a new feature, please create an issue first
+2. Make sure your code & comment conventions are in-line with the project's style
+3. Make your commits and PRs as tiny as possible - one feature or bugfix at a time
+4. Write detailed commit messages, in-line with the project's commit naming conventions 
   
-# ☼  The 'Say Thanks' this Project  click here!!             [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)]                       (https://saythanks.io/to/jsroyal)  
 
          
